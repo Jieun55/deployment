@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: con-fast
-        image: 973510907968.dkr.ecr.ap-northeast-2.amazonaws.com/fast:1
+        image: 973510907968.dkr.ecr.ap-northeast-2.amazonaws.com/fast:10
         ports:
         - containerPort: 8000
 ---
